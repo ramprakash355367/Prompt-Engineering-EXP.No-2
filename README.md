@@ -14,7 +14,7 @@ role-based) across different AI platforms
 3.CHATGPT 
 
 PARAGRAPH: 
-Environmental conservation is one of the most important responsibilities of human beings in 
+     Environmental conservation is one of the most important responsibilities of human beings in 
 the modern world. The environment includes all living and non-living things around us such 
 as air, water, soil, plants, animals, and natural resources. These elements are essential for the 
 survival of life on Earth. However, due to rapid industrialization, urbanization, and population 
@@ -55,7 +55,7 @@ recycling, conserving water, and using renewable energy are essential solutions.
 action by individuals, communities, and governments, along with environmental education, 
 ensures a healthier planet for present and future generations
 
-                                                          FEW SHOT PROMPTING 
+                                      FEW SHOT PROMPTING 
                                                           
 PROMPT :Simplify the content so it is easy to understand using the above paragraph 
  
@@ -81,7 +81,7 @@ animals, while deforestation destroys wildlife and affects climate. To protect t
 recycle, save water, plant trees, and use clean energy. Working together ensures a safe and healthy 
 future for everyone. 
 
-                     Chain-of-Thought Prompt 
+                              Chain-of-Thought Prompt 
  
 PROMPT : Study the passage , find the main idea and important supporting points, and 
 understand the overall theme of the text.Then write a clear and short summary using your own 
@@ -109,7 +109,7 @@ recycling, conserving water, and using renewable energy are essential solutions.
 action by individuals, communities, and governments, along with environmental education, 
 ensures a healthier planet for present and future generations 
 
-FEW SHOT PROMPTING 
+                                      FEW SHOT PROMPTING 
 
 PROMPT:Simplify the content so it is easy to understand using the above paragraph 
 EXAMPLE INPUT:Environmental conservation is one of the most important 
@@ -133,7 +133,7 @@ animals, while deforestation destroys wildlife and affects climate. To protect t
 recycle, save water, plant trees, and use clean energy. Working together ensures a safe and healthy 
 future for everyone. 
 
-Chain-of-Thought Prompt 
+               Chain-of-Thought Prompt 
 
 PROMPT:  Study the passage , find the main idea and important supporting points, and 
 understand the overall theme of the text.Then write a clear and short summary using your own 
@@ -203,24 +203,10 @@ renewable energy can help protect nature. People, communities, and governments m
 together to keep the Earth healthy for future generations.
 
 FINAL CONCLUSION: 
-  
-  Prompt Technique  
-                                    
- Prompt Technique       Prompt used     Accuracy  Coherence  Simplicity   Speed  User  
+ <img width="1051" height="1570" alt="image" src="https://github.com/user-attachments/assets/e4c0990e-ac12-4e9f-bf88-23f2915a3951" />
 
-                         ZERO-SHOT          3        4           3           5     4 
- GEMINI                  FEW-SHOT           4        3           4           3     4 
-                 CHAIN -OF- THOUGHT         4        3           4           3     4
   
-                         ZERO-SHOT          3        3          3            5     4 
- COPILOT                 FEW-SHOT           4        3          5            4     4 
-                CHAIN -OF- THOUGHT          3        4          3            4     4   
-   
-                         ZERO-SHOT         5         4          4            5     5 
-   CHATGPT               FEW-SHOT          5         4          5            4     5  
-                CHAIN -OF- THOUGHT         5         4          5            4      5                 
-                
 RESULT:
 
-Thus the Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization is verified
+Thus the Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization is shown.
 
