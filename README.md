@@ -7,8 +7,11 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 Compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, 
 role-based) across different AI platforms 
 1.GEMINI 
-2.COPILOT 
+
+2.COPILOT
+
 3.CHATGPT 
+
 PARAGRAPH: 
 Environmental conservation is one of the most important responsibilities of human beings in 
 the modern world. The environment includes all living and non-living things around us such 
