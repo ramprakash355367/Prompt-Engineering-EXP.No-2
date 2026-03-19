@@ -6,6 +6,7 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 
 Compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, 
 role-based) across different AI platforms 
+
 1.GEMINI 
 
 2.COPILOT
@@ -40,17 +41,22 @@ generations. By adopting responsible practices and respecting nature, humanity c
 healthier planet. Protecting the environment is not only a duty but also a commitment to 
 preserve the Earth for future generations. 
  
-1.GEMINI: 
+1.GEMINI:
+
                                  ZERO SHOT PROMPTING 
+                                 
 PROMPT:Summarize the paragraph into 75 words 
+
 OUTPUT:Environmental conservation is vital for sustaining life on Earth. Rapid 
 industrialization, urbanization, and population growth have led to pollution, deforestation, and 
 resource depletion. Air, water, and land pollution harm ecosystems and human health, while 
 deforestation disrupts biodiversity and climate balance. Protecting forests, reducing waste, 
 recycling, conserving water, and using renewable energy are essential solutions. Collective 
 action by individuals, communities, and governments, along with environmental education, 
-ensures a healthier planet for present and future generations 
+ensures a healthier planet for present and future generations
+
                                                           FEW SHOT PROMPTING 
+                                                          
 PROMPT :Simplify the content so it is easy to understand using the above paragraph 
  
 EXAMPLE INPUT: Environmental conservation is one of the most important 
@@ -74,6 +80,7 @@ factories, vehicles, and cutting down forests are damaging it. Pollution harms h
 animals, while deforestation destroys wildlife and affects climate. To protect the planet, we must 
 recycle, save water, plant trees, and use clean energy. Working together ensures a safe and healthy 
 future for everyone. 
+
                      Chain-of-Thought Prompt 
  
 PROMPT : Study the passage , find the main idea and important supporting points, and 
@@ -89,7 +96,9 @@ energy. Collective action and environmental education can ensure sustainable liv
 protect the planet for future generations. 
  
 2.COPILOT:  
-                                         ZERO SHOT PROMPTING 
+
+                                         ZERO SHOT PROMPTING
+                                         
 PROMPT:Summarize the paragraph into 75 words 
  
 OUTPUT:Environmental conservation is vital for sustaining life on Earth. Rapid 
@@ -99,7 +108,9 @@ deforestation disrupts biodiversity and climate balance. Protecting forests, red
 recycling, conserving water, and using renewable energy are essential solutions. Collective 
 action by individuals, communities, and governments, along with environmental education, 
 ensures a healthier planet for present and future generations 
+
 FEW SHOT PROMPTING 
+
 PROMPT:Simplify the content so it is easy to understand using the above paragraph 
 EXAMPLE INPUT:Environmental conservation is one of the most important 
 responsibilities of human beings in the modern world. The environment includes all 
@@ -121,7 +132,9 @@ factories, vehicles, and cutting down forests are damaging it. Pollution harms h
 animals, while deforestation destroys wildlife and affects climate. To protect the planet, we must 
 recycle, save water, plant trees, and use clean energy. Working together ensures a safe and healthy 
 future for everyone. 
+
 Chain-of-Thought Prompt 
+
 PROMPT:  Study the passage , find the main idea and important supporting points, and 
 understand the overall theme of the text.Then write a clear and short summary using your own 
 words in exactly 75 words without changing the original meaning.   
@@ -135,7 +148,9 @@ protect the planet for future generations.
  
  
 3.CHATGPT: 
+
                                            ZERO SHOT PROMPTING 
+                                           
 PROMPT:Summarize the paragraph into 75 words 
  
 OUTPUT:Environmental conservation is essential for protecting life on Earth. The 
@@ -148,6 +163,7 @@ communities, and governments are necessary to ensure a healthy planet for future
 generations. 
                             
                                   FEW SHOT PROMPTING 
+                                  
 PROMPT:Simplify the content so it is easy to understand using the above paragraph 
 EXAMPLE INPUT:Environmental conservation is one of the most important responsibilities 
 of human beings in the modern world. The environment includes all living and non-living 
@@ -173,6 +189,7 @@ together to keep the Earth safe for future generations.
                    
                                  
                                  Chain-of-Thought Prompt 
+                                 
 PROMPT:Study the passage , find the main idea and important supporting points, and 
 understand the overall theme of the text.Then write a clear and short summary using your own 
 words in exactly 75 words without changing the original meaning.  
@@ -204,5 +221,6 @@ FINAL CONCLUSION:
                 CHAIN -OF- THOUGHT         5         4          5            4      5                 
                 
 RESULT:
+
 Thus the Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization is verified
 
